@@ -1,0 +1,14 @@
+{
+  "display_name": "词库防路由",
+  "loading_order": 50,
+  "requires": [],
+  "optional": [],
+  "js": "index.js",
+  "css": "style.css",
+  "author": "route-guard",
+  "version": "1.0.0",
+  "homePage": "",
+  "hooks": {
+    "activate": "init"
+  }
+}
